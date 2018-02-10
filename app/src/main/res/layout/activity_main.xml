@@ -45,7 +45,7 @@
         android:entries="@array/toppings" />
 
     <CheckBox
-        android:text="CheckBoxExtraCheese"
+        android:text="@string/checkboxextracheese"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:id="@+id/checkBoxCheese"
